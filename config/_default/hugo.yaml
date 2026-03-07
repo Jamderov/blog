@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://Jamderov.github.io/'
 
 ############################
 ## LANGUAGE
@@ -49,7 +49,7 @@ imaging:
   resampleFilter: lanczos
   quality: 90
   anchor: smart
-  hint: picture
+  hint: pictur
 timeout: 600000
 taxonomies:
   author: authors
